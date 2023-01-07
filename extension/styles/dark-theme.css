@@ -1,0 +1,173 @@
+/* Estilos del tema claro */
+
+* {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    color: #333;
+  }
+  
+  body {
+    width: 300px;
+    height: 350px;
+    overflow: hidden;
+    background-color: #f5f5f5;
+  }
+  
+  header {
+    background-color: #64b5f6;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  header h1 {
+    font-size: 18px;
+    color: white;
+    margin: 0;
+  }
+  
+  nav a {
+    display: block;
+    width: 93%;
+    padding: 10px;
+    margin: 2px;
+    background-color: #64b5f6;
+    color: white;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    text-align: center;
+  }
+  
+  nav a:hover {
+    background-color: #eee;
+  }
+  
+  #about-content {
+    border-radius: 10px;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  #about-content h2 {
+    font-size: 18px;
+    margin: 0 0 10px;
+  }
+  
+  #about-content p {
+    line-height: 1.5;
+    margin: 0 0 20px;
+  }
+  
+  #about-content h3 {
+    font-size: 16px;
+    margin: 0 0 10px;
+  }
+  
+  #about-content ul {
+    margin: 0;
+    padding: 0 0 0 20px;
+  }
+  
+  #about-content li {
+    list-style: disc;
+    margin: 0 0 10px;
+  }
+  
+  button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #64b5f6;
+    color: white;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  button:hover {
+    background-color: #4db6ac;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  main h2 {
+    font-size: 18px;
+    margin: 0 0 10px;
+  }
+  
+  main p {
+    line-height: 1.5;
+    margin: 0;
+  }
+  
+  footer {
+    background-color: #64b5f6;
+    color: white;
+    text-align: center;
+    padding: 10px;
+  }
+  
+  footer p {
+    margin: 0;
+  }
+  
+ /* Estilos del tema oscuro */
+
+.dark-theme {
+    background-color: #333;
+  }
+  
+  .dark-theme * {
+    color: #eee;
+  }
+  
+  .dark-theme header {
+    background-color: #222;
+  }
+  
+  .dark-theme nav a {
+    color: #eee;
+    border: 1px solid #444;
+    transition: background-color 0.3s, border-color 0.3s;
+    background-color: #444;
+  }
+  
+  .dark-theme nav a:hover {
+    background-color: #444;
+    border-color: #eee;
+  }
+  
+  .dark-theme #about-content {
+    background-color: #444;
+    border: 1px solid #666;
+    box-shadow: 0 2px 5px rgba(255, 255, 255, 0.1);
+  }
+  
+  .dark-theme button {
+    background-color: #222;
+    border: 1px solid #444;
+    transition: background-color 0.3s, border-color 0.3s;
+  }
+  
+  .dark-theme button:hover {
+    background-color: #444;
+    border-color: #eee;
+  }
+  
+  .dark-theme main {
+    background-color: #444;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 2px 5px rgba(255, 255, 255, 0.1);
+  }
+  
+  .dark-theme footer {
+    background-color: #222;
+  }

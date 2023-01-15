@@ -30,12 +30,3 @@ Toggling on Extension:
 
 ![image](https://user-images.githubusercontent.com/104428151/211153931-61dfb016-c345-4371-b973-2260b215640d.png)
 
-
-## Contribution
-
-We welcome contributions to the Dark Theme Extension. If you'd like to help, please see our [contribution guidelines](CONTRIBUTING.md) for more information.
-
-## Credits
-
-- [Lzaruss](https://github.com/Lzaruss)
-

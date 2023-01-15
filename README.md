@@ -37,8 +37,5 @@ We welcome contributions to the Dark Theme Extension. If you'd like to help, ple
 
 ## Credits
 
-- [Lzaruss](https://github.com/Lzaruss) - Developer
+- [Lzaruss](https://github.com/Lzaruss)
 
-## License
-
-This extension is licensed under the [MIT License](LICENSE).
